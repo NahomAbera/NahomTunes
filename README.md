@@ -1,4 +1,4 @@
-A GUI Desktop Music Player App
+## A GUI Desktop Music Player App
 
 A Graphical User Interface (GUI) music player app with vital controls like play, pause, and stop, along with dynamic playlist management and volume adjustment for a comprehensive user experience.
 
